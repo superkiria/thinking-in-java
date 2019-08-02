@@ -7,7 +7,8 @@ public class Ex07 {
 	}
 }
 class Incrementable {
-	static void increment() { StaticTest.i++; }
+	static void increment() {
+		StaticTest.i++; }
 }
 class StaticTest {
 	static int i = 1; //not 47

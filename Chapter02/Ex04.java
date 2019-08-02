@@ -10,8 +10,3 @@ public class Ex04 {
 		System.out.println(data.b);
 	}
 }
-class DataOnly {
-	int i;
-	double d;
-	boolean b;
-}
