@@ -1,3 +1,5 @@
+package Chapter02;
+
 public class Ex03 {
 	public static void main(String[] args) {
 		ATypeName a = new ATypeName();

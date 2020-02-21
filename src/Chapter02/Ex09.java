@@ -1,3 +1,5 @@
+package Chapter02;
+
 public class Ex09 {
 	public static void main(String srgs[]) {
 		Integer I = 89;

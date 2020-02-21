@@ -1,3 +1,5 @@
+package Chapter03;
+
 class Ex03 {
     float value;
 

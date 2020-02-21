@@ -1,3 +1,5 @@
+package Chapter03;
+
 import static java.lang.System.out;
 
 class Ex10 {
